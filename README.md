@@ -11,7 +11,7 @@ So you can run our code by simply replacing the script in [easyedit](https://git
 
 Specifically, you need to replace the following files:
 ```
-code/
+D4S/
 │
 ├── easyeditor/
 │   ├── editors/
