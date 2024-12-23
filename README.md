@@ -31,7 +31,7 @@ conda activate d4c
 pip install -r requirements.txt
 ```
 
-# running
+## running
 You can run the code by running the following command:
 ```shell
 run run_zsre_llama2.py
