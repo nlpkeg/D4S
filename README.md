@@ -3,7 +3,7 @@ This is the source code for the paper Reasons and Solutions for the Decline in M
 
 ## D4S
 
-This is the source code for the Dump for sequenCe (D4C) knowledge editing method.
+This is the source code for the Dump for Sequence (D4S) knowledge editing method.
 
 Our project is base on [easyedit](https://github.com/zjunlp/EasyEdit).
 
